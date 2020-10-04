@@ -1,4 +1,4 @@
 # js-constructor
 
 DEPLOYED: 
-js-constructor-nar.web.app
+https://js-constructor-nar.web.app
